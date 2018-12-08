@@ -1,6 +1,10 @@
 # classpathファイル
 .classpath
 
+# 設定ファイル
+.project
+.settings/
+
 # Compiled class file
 *.class
 
